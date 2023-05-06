@@ -1,0 +1,8 @@
+# Lines starting with # are ignored, empty lines are also allowed
+# List one URL per line:
+https://easylist-downloads.adblockplus.org/easylistchina+easylist.txt
+https://easylist.to/easylist/easyprivacy.txt
+https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt
+
+# The following line doesn't work, only put either a comment or an URL in one line, not both
+http://  # Invalid comment on URL
